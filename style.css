@@ -557,3 +557,21 @@ margin-bottom: 30px;
  
 
 }
+
+}
+.logo_aligns{
+    display: block;
+}
+
+*, :after, :before {
+    box-sizing: border-box;
+    
+}
+
+.column{
+    margin-top: -17rem;
+    margin-left: -10rem;
+    width: 30%
+}
+
+
